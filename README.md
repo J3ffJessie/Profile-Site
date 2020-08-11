@@ -1,2 +1,2 @@
-# Profile-Stie
+# Profile-Site
 Simple Profile Site

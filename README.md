@@ -12,5 +12,5 @@ Simple Profile Site
     - Battlebuddy.io
     - Military links for mental health
     
-- Fountain Pens
-    - Pen comparison Site
+- Anime
+    - Animated Modal

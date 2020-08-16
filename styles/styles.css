@@ -38,3 +38,11 @@ p{
 .passion-card {
     border: 2px solid blue;
 }
+
+footer{
+position: relative;
+justify-content: center;
+padding-top: 50px;
+text-align: center;
+
+}

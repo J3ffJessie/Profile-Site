@@ -11,7 +11,7 @@ header {
 
 nav {
   display: flex;
-  float: right;
+  justify-content: flex-end;
 }
 
 .dropbtn {
@@ -61,32 +61,39 @@ nav {
 
 .container {
   text-align: center;
-  padding: 50px 25px 50px 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-pic{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
 }
 
 .mission-statement {
-  text-align: left;
-  padding: 25px 0 0 25px;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
 }
 
 p {
   text-align: center;
 }
 
-.passions {
-  position: relative;
-  padding: 50px 50px 100px 485px;
+.passions{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding-top: 75px;
 }
 
 .passion-card {
   border-radius: 50%;
   height: 100px;
   width: 100px;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  float: inline-start;
-  padding: 0 5px 0 5px;
+
 }
 
 footer {

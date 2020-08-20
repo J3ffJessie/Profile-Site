@@ -7,10 +7,13 @@ Simple Profile Site
 - Vinyl
     - Spinning Vinyl background
     - Discogs API sidebar
+    - Animated Modal
     
-- Veterans
-    - Battlebuddy.io
-    - Military links for mental health
+- Podcasts
+    - API for Podcast network
+    - Spotify API? Possibly or find another API
+    - Animate in some way in a modal
     
 - Anime
     - Animated Modal
+    - Gif animation on Hover?

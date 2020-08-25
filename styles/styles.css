@@ -64,6 +64,12 @@ p {
   padding-left: 5px; 
   overflow: hidden; 
 }
+
+.passion-card:hover{
+  opacity: 0.0;
+}
+
+
 footer {
   position: relative;
   justify-content: center;

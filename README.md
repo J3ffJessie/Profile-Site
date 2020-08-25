@@ -9,10 +9,7 @@ Simple Profile Site
     - Discogs API sidebar
     - Animated Modal
     
-- Podcasts
-    - API for Podcast network
-    - Spotify API? Possibly or find another API
-    - Animate in some way in a modal
+- Need another Passion
     
 - Anime
     - Animated Modal

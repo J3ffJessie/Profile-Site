@@ -12,7 +12,7 @@ nav {
   height: 25px;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 .menu-items {

@@ -59,14 +59,26 @@ p {
   padding-top: 50px;
 }
 
-.passion-card1,2,3{
+.passion-card {
   position: relative;
   height: 100px;
   border-radius: 25%;
   padding-right: 5px;
   padding-left: 5px;
   overflow: hidden;
-  background: url("./images/Logo.png")
+}
+
+/* .passion-card:hover{
+  display: none;
+} */
+
+.passion-gif {
+  position: relative;
+  height: 100px;
+  border-radius: 25%;
+  padding-right: 5px;
+  padding-left: 5px;
+  overflow: hidden;
 }
 
 /* .passion-card:hover{

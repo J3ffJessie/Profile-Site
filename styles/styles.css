@@ -46,6 +46,10 @@ a:hover {
   padding-right: 25px;
 }
 
+.mugshot {
+border-radius: 25%;
+
+}
 
 p {
   text-align: justify;

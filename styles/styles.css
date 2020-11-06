@@ -1,6 +1,7 @@
 body {
   align-items: center;
-  background-color: steelblue;
+  animation-name: color-change-2x;
+  animation-duration: 20s;
 }
 
 header {
@@ -90,4 +91,13 @@ footer {
   padding-top: 50px;
   text-align: center;
 
+}
+      
+@keyframes color-change-2x {
+  0% {
+    background: #19dcea;
+  }
+  100% {
+    background: #b22cff;
+  }
 }

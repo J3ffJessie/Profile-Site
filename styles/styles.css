@@ -1,7 +1,8 @@
 body {
   align-items: center;
   animation-name: color-change-2x;
-  animation-duration: 20s;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
 }
 
 header {
@@ -95,9 +96,12 @@ footer {
       
 @keyframes color-change-2x {
   0% {
-    background: #19dcea;
+    background: #091F40;
   }
-  100% {
-    background: #b22cff;
+  50% {
+    background: #C5203E;
+    }
+  100% { 
+    background: #091F40;
+    }
   }
-}
